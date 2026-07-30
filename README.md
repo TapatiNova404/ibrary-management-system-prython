@@ -90,13 +90,13 @@ admin123
 
 ### Login Screen
 
-![Login](Screenshots/Login_Syatem.png)
+![Login](Screenshots/Login_System.png)
 
 ---
 
 ### Add Book
 
-![Add Book](Screenshots/Add_Book.png)
+![Add Book](Screenshots/Add_book.png)
 
 ---
 
