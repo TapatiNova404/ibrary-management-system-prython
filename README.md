@@ -90,19 +90,19 @@ admin123
 
 ### Login Screen
 
-![Login](images/Login_Syatem.png)
+![Login](Screenshots/Login_Syatem.png)
 
 ---
 
 ### Add Book
 
-![Add Book](images/Add_Book.png)
+![Add Book](Screenshots/Add_Book.png)
 
 ---
 
 ### View Books
 
-![View Books](images/View_Book.png)
+![View Books](Screenshots/View_Book.png)
 
 ---
 
