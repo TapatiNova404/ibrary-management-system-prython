@@ -90,19 +90,19 @@ admin123
 
 ### Login Screen
 
-![Login](Login_SYSTEM.png)
+![Login](images/Login_Syatem.png)
 
 ---
 
 ### Add Book
 
-![Add Book](Add_Book.png)
+![Add Book](images/Add_Book.png)
 
 ---
 
 ### View Books
 
-![View Books](View_Book.png)
+![View Books](images/View_Book.png)
 
 ---
 
@@ -110,7 +110,7 @@ admin123
 
 ```json
 {
-    "book_id": "101",
+    "book_id": "B101",
     "title": "Python Programming",
     "author": "Reema Thareja",
     "category": "Programming",
