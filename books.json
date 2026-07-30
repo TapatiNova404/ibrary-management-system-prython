@@ -1,0 +1,10 @@
+[
+    {
+        "book_id": "B101",
+        "title": " Python Programming 3rd Edition",
+        "author": "Reema Thereja",
+        "category": "Programming",
+        "price": 650.0,
+        "quantity": 12
+    }
+]
